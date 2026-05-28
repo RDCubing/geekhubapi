@@ -8,6 +8,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/quote.png",
       "Version": "2.2.26138.1",
       "Framework": "Windows 8.1",
+	  "TopApp": "Yes",
       "Description": "QuoteTile is a simple app that shows inspiring quotes. Refresh quotes anytime, copy quotes to clipboard with one click, and share quotes anywhere.",
       "DownloadUrl": "https://github.com/RDCubing/QuoteTileMain/releases/download/2.2.26138.1/QuoteTileMain_2.2.26138.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/QuoteTileMain"
@@ -20,6 +21,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/ltswide.png",
       "Version": "2.1.0.1",
       "Framework": "Windows 8.1",
+	  "TopApp": "No",
       "Description": "QuoteTile is a simple app that shows inspiring quotes. Refresh quotes anytime, copy quotes to clipboard with one click, and share quotes anywhere.",
         "DownloadUrl": "https://github.com/RDCubing/QuoteTileLTS/releases/download/2.1.0.1/QuoteTileLTS_2.1.0.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/QuoteTileLTS"
@@ -32,6 +34,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/media.png",
       "Version": "1.3.0.0",
       "Framework": "Windows 8.1",
+	  "TopApp": "Yes",
       "Description": "A lightweight and modern audio player designed for music lovers. Clean UI, smooth playback, and efficient performance.",
       "DownloadUrl": "https://github.com/RDCubing/GDCMediaPlayer/releases/download/1.3.0.0/GDCMediaPlayer_1.3.0.0_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/GDCMediaPlayer"
@@ -44,6 +47,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/feed.png",
       "Version": "1.2.1.1",
       "Framework": "Windows 8.1",
+	  "TopApp": "Yes",
       "Description": "Stay updated with the latest GDC news, releases, and community highlights in one place.",
       "DownloadUrl": "https://github.com/RDCubing/GDC-Highlights/releases/download/1.2.1.1/GDC.Highlights_1.2.1.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/GDC-Highlights"
@@ -56,6 +60,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/feed.png",
       "Version": "1.2.1.1",
       "Framework": "Windows 8.1",
+	  "TopApp": "No",
       "Description": "Stay updated with the latest GDC news, releases, and community highlights in one place.",
       "DownloadUrl": "https://github.com/RDCubing/GDC-Highlights-1/releases/download/1.2.1.1/GDC.Highlights_1.2.1.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/GDC-Highlights-1"
@@ -68,6 +73,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/feed.png",
       "Version": "1.2.1.1",
       "Framework": "Windows 8.1",
+	  "TopApp": "No",
       "Description": "Stay updated with the latest GDC news, releases, and community highlights in one place.",
       "DownloadUrl": "https://github.com/RDCubing/GDC-Highlights-2/releases/download/1.2.1.1/GDC.Highlights_1.2.1.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/GDC-Highlights-2"
@@ -80,6 +86,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/feed.png",
       "Version": "1.2.1.1",
       "Framework": "Windows 8.1",
+	  "TopApp": "No",
       "Description": "Stay updated with the latest GDC news, releases, and community highlights in one place.",
       "DownloadUrl": "https://github.com/RDCubing/GDC-Highlights-3/releases/download/1.2.1.1/GDC.Highlights_1.2.1.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/GDC-Highlights-3"
@@ -92,6 +99,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/feed.png",
       "Version": "1.2.1.1",
       "Framework": "Windows 8.1",
+	  "TopApp": "No",
       "Description": "Stay updated with the latest GDC news, releases, and community highlights in one place.",
       "DownloadUrl": "https://github.com/RDCubing/GDC-Highlights-4/releases/download/1.2.1.1/GDC.Highlights_1.2.1.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/GDC-Highlights-4"
@@ -104,6 +112,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/rlillo.png",
       "Version": "1.2.26122.0",
       "Framework": "Windows 8.1",
+	  "TopApp": "Yes",
       "Description": "Discover music, updates, and exclusive content from ChrisRLillo.",
       "DownloadUrl": "https://github.com/RDCubing/ChrisRLillo-Music/releases/download/1.2.26122.0/ChrisRLillo.Music_1.2.26122.0_AnyCPU.appxbundle",
       "SourceUrl": "https://github.com/RDCubing/ChrisRLillo-Music"
@@ -116,6 +125,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/neonnotes2.png",
       "Version": "1.0.26142.0",
       "Framework": "Windows 8.1",
+	  "TopApp": "No",
       "Description": "Neon Notes is a tile-based note-taking app inspired by the Windows 8 Start screen.",
       "DownloadUrl": "https://github.com/RDCubing/Neon-Notes/releases/download/1.0.26142.0/Neon.Notes_1.0.26142.0_AnyCPU.appxbundle",
       "SourceUrl": "https://github.com/RDCubing/Neon-Notes"
@@ -128,6 +138,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/image-4.png",
       "Version": "1.1.0.0",
       "Framework": "Windows 8.1",
+	  "TopApp": "No",
       "Description": "Live Text is a Windows 10/8.1/8/Phone 8.1/8/7 that combines the best of live tiles and the Quotes/Texts, You can customize it like your way, pin the app to get the live tile, and you can write your own text instead of letting a quote take the place.",
       "DownloadUrl": "https://github.com/bloomthebloom/LiveText/raw/main/Live%20Text%20-%20Windows%208.1_1.1.0.0_AnyCPU.appx",
       "SourceUrl": null
@@ -140,6 +151,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/octoshot.png",
       "Version": "1.3.0.0",
       "Framework": "Windows 8.1",
+	  "TopApp": "Yes",
       "Description": "OctoStore is a 8Store Fork that has some new features that makes it even better. It tries to continue the same goal 8Store had, with the same passions.",
       "DownloadUrl": "https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/update_1779525864249_1779546962100.appx",
       "SourceUrl": null
