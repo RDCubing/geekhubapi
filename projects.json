@@ -2,6 +2,7 @@
   "NeonStore": [
     {
       "Title": "QuoteTile",
+	  "Id": "quotetile",
       "Subtitle": "Seek inspiration from quotes",
       "Publisher": "Andrew Simson",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/q.png",
@@ -15,6 +16,7 @@
     },
     {
       "Title": "QuoteTile LTS",
+	  "Id": "quotetilelts",
       "Subtitle": "Seek inspiration from quotes",
       "Publisher":  "Andrew Simson",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/lts.png",
@@ -28,6 +30,7 @@
     },
     {
       "Title": "GDC Media Player",
+	  "Id": "gdcmp",
       "Subtitle": "Vibe-cooling media player",
       "Publisher":  "Andrew Simson",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/mp3.png",
@@ -41,6 +44,7 @@
     },
     {
       "Title": "GDC Highlights",
+	  "Id": "gdch",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/gdch.png",
@@ -54,6 +58,7 @@
     },
     {
       "Title": "GDC Highlights 1",
+	  "Id": "gdch1",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/1.png",
@@ -67,6 +72,7 @@
     },
     {
       "Title": "GDC Highlights 2",
+	  "Id": "gdch2",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/2.png",
@@ -80,6 +86,7 @@
     },
     {
       "Title": "GDC Highlights 3",
+	  "Id": "gdch3",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/3.png",
@@ -93,6 +100,7 @@
     },
     {
       "Title": "GDC Highlights 4",
+	  "Id": "gdch4",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/4.png",
@@ -106,6 +114,7 @@
     },
     {
       "Title": "ChrisRLillo Music",
+	  "Id": "chrismusic",
       "Subtitle": "Chilean music in its peak",
       "Publisher": "ChrisRLillo & Andrew from GDC",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/chris.png",
@@ -119,6 +128,7 @@
     },
     {
       "Title": "Neon Notes",
+	  "Id": "neonnotes",
       "Subtitle": "Write and share!",
       "Publisher": "GDC Projects by Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/neonnotes.png",
@@ -132,6 +142,7 @@
     },
     {
       "Title": "Live Text 8.1",
+	  "Id": "livetext",
       "Subtitle": "Personalized live tiles",
       "Publisher": "Live Text Team",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/image-5.png",
@@ -145,6 +156,7 @@
     },
     {
       "Title": "OctoStore",
+	  "Id": "octostore",
       "Subtitle": "Windows 8.1 Store, revived",
       "Publisher": "Octo Limited",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/octostore.png",
