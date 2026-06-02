@@ -1,7 +1,7 @@
 {
-  "Version": "1.1.26153.0",
+  "Version": "1.1.26153.1",
   "Name": "NeonStore",
-  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.0.26149.0/NeonStore_1.0.26149.0_AnyCPU.appx",
+  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.1.26153.1/NeonStore_1.1.26153.1_AnyCPU.appxbundle",
   "Changelog": "New UI improvements\nFaster loading\nBug fixes",
   "Message": "A new update is available"
 }
