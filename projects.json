@@ -218,6 +218,18 @@
       "DownloadUrl": "https://github.com/RDCubing/GDCHWP8/releases/download/1.0.26126.0/GDCHWP8_1.0.26126.0_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/GDCHWP8"
     },
+	{
+      "Title": "Internet Explorer 12",
+      "Subtitle": "12th IE version",
+      "Publisher":  "DraydenYT",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/IE12.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/IE12ICON.png",
+      "Version": "12.0.0.0",
+      "Framework": "Windows 10",
+      "Description": "If IE Never died and Microsoft Made it's 12th version for Windows 10 in 2015.",
+      "DownloadUrl": "https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/main/Ie12_12.0.0.0_AnyCPU.appx",
+      "SourceUrl": "https://github.com/draydenthemiiyt-maker/10-Store/tree/main/ie12"
+    },
 
     {
       "Title": "ConverterCalculatorGUI",
