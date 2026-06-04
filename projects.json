@@ -14,6 +14,20 @@
       "DownloadUrl": "https://github.com/RDCubing/QuoteTileMain/releases/download/2.2.26138.1/QuoteTileMain_2.2.26138.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/QuoteTileMain"
     },
+	{
+      "Title": "QuoteTile Special",
+	  "Id": "quotetilespecial",
+      "Subtitle": "Seek inspiration from quotes",
+      "Publisher": "Andrew Simson",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/qspecial.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/qspecial2.png",
+      "Version": "1.2.2.0",
+      "Framework": "Windows 8.1",
+	  "TopApp": "Yes",
+      "Description": "QuoteTile is a simple app that shows inspiring quotes. Refresh quotes anytime, copy quotes to clipboard with one click, and share quotes anywhere.",
+      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/QuoteTileSpecial_1.2.2.0_AnyCPU_Debug.appx",
+      "SourceUrl": null
+    },
     {
       "Title": "QuoteTile LTS",
 	  "Id": "quotetilelts",
@@ -23,7 +37,7 @@
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/ltswide.png",
       "Version": "2.1.0.1",
       "Framework": "Windows 8.1",
-	  "TopApp": "No",
+	  "TopApp": "Yes",
       "Description": "QuoteTile is a simple app that shows inspiring quotes. Refresh quotes anytime, copy quotes to clipboard with one click, and share quotes anywhere.",
         "DownloadUrl": "https://github.com/RDCubing/QuoteTileLTS/releases/download/2.1.0.1/QuoteTileLTS_2.1.0.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/QuoteTileLTS"
@@ -180,6 +194,20 @@
 	  "TopApp": "Yes",
       "Description": "OctoStore is a 8Store Fork that has some new features that makes it even better. It tries to continue the same goal 8Store had, with the same passions.",
       "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/OctoLimited.OctoStore_1.3.1.0_neutral__9nv48q8g3jb4r.appx",
+      "SourceUrl": null
+    },
+	{
+      "Title": "DrayMusic",
+	  "Id": "draymusic",
+      "Subtitle": "The DraydenYT Music App!",
+      "Publisher": "DraydenYT",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/draylogo.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/draymusic.png",
+      "Version": "1.0.0.0",
+      "Framework": "Windows 8.1",
+	  "TopApp": "No",
+      "Description": "Listen online anytime, anywhere with DrayMusic and enjoy seamless access to your favorite tracks, curated playlists, and new music discoveries all in one place.",
+      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/DrayMusic_1.0.0.0_AnyCPU.appx",
       "SourceUrl": null
     }
   ],
