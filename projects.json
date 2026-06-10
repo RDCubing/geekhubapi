@@ -3,6 +3,7 @@
     {
       "Title": "QuoteTile",
 	  "Id": "quotetile",
+	  "Category": "Reference",
       "Subtitle": "Seek inspiration from quotes",
       "Publisher": "Andrew Simson",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/q.png",
@@ -17,6 +18,7 @@
 	{
       "Title": "QuoteTile Special",
 	  "Id": "quotetilespecial",
+	  "Category": "Reference",
       "Subtitle": "Seek inspiration from quotes",
       "Publisher": "Andrew Simson",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/qspecial.png",
@@ -31,6 +33,7 @@
     {
       "Title": "QuoteTile LTS",
 	  "Id": "quotetilelts",
+	  "Category": "Reference",
       "Subtitle": "Seek inspiration from quotes",
       "Publisher":  "Andrew Simson",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/lts.png",
@@ -45,6 +48,7 @@
     {
       "Title": "GDC Media Player",
 	  "Id": "gdcmp",
+	  "Category": "Entertainment",
       "Subtitle": "Vibe-cooling media player",
       "Publisher":  "Andrew Simson",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/mp3.png",
@@ -59,6 +63,7 @@
     {
       "Title": "GDC Highlights",
 	  "Id": "gdch",
+	  "Category": "News",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/gdch.png",
@@ -73,6 +78,7 @@
     {
       "Title": "GDC Highlights 1",
 	  "Id": "gdch1",
+	  "Category": "News",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/1.png",
@@ -87,6 +93,7 @@
     {
       "Title": "GDC Highlights 2",
 	  "Id": "gdch2",
+	  "Category": "News",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/2.png",
@@ -101,6 +108,7 @@
     {
       "Title": "GDC Highlights 3",
 	  "Id": "gdch3",
+	  "Category": "News",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/3.png",
@@ -115,6 +123,7 @@
     {
       "Title": "GDC Highlights 4",
 	  "Id": "gdch4",
+	  "Category": "News",
       "Subtitle": "Latest news from GDC",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/4.png",
@@ -129,6 +138,7 @@
 	{
       "Title": "GeekHub",
 	  "Id": "geekhub",
+	  "Category": "Other",
       "Subtitle": "Your apps, projects, and updates in one place.",
       "Publisher":  "Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/GeekHub.png",
@@ -143,6 +153,7 @@
     {
       "Title": "ChrisRLillo Music",
 	  "Id": "chrismusic",
+	  "Category": "Entertainment",
       "Subtitle": "Chilean music in its peak",
       "Publisher": "ChrisRLillo & Andrew from GDC",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/chris.png",
@@ -157,6 +168,7 @@
     {
       "Title": "Neon Notes",
 	  "Id": "neonnotes",
+	  "Category": "Productivity",
       "Subtitle": "Write and share!",
       "Publisher": "GDC Projects by Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/neonnotes.png",
@@ -171,6 +183,7 @@
     {
       "Title": "Live Text 8.1",
 	  "Id": "livetext",
+	  "Category": "Reference",
       "Subtitle": "Personalized live tiles",
       "Publisher": "Live Text Team",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/image-5.png",
@@ -185,6 +198,7 @@
     {
       "Title": "OctoStore",
 	  "Id": "octostore",
+	  "Category": "Other",
       "Subtitle": "Windows 8.1 Store, revived",
       "Publisher": "Octo Limited",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/octostore.png",
@@ -199,6 +213,7 @@
 	{
       "Title": "DrayMusic",
 	  "Id": "draymusic",
+	  "Category": "Entertainment",
       "Subtitle": "The DraydenYT Music App!",
       "Publisher": "DraydenYT",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/draylogo.png",
@@ -213,6 +228,7 @@
 	{
       "Title": "Trainspotting UK",
 	  "Id": "trainuk",
+	  "Category": "Other",
       "Subtitle": "Live train cams",
       "Publisher": "DraydenYT",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/trainuk.png",
