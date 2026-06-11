@@ -1,7 +1,7 @@
 {
-  "Version": "1.2.26158.0",
+  "Version": "1.3.26162.0",
   "Name": "NeonStore",
-  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.2.26158.0/NeonStore_1.2.26158.0_AnyCPU.appxbundle",
-  "Changelog": "Downloads history\nUI improvements\nTop apps in MainPage limitation fix",
-  "Message": "A new minor update is available, 1.2!"
+  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.3.26162.0/NeonStore_1.3.26162.0_AnyCPU.appxbundle",
+  "Changelog": "- New personalization options!\n- Categories!\n- UI improvements!",
+  "Message": "A new minor update is available, 1.3, update by Xylo!"
 }
