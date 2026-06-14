@@ -1,7 +1,7 @@
 {
-  "Version": "1.3.26162.0",
+  "Version": "1.4.26165.0",
   "Name": "NeonStore",
-  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.3.26162.0/NeonStore_1.3.26162.0_AnyCPU.appxbundle",
-  "Changelog": "- New personalization options!\n- Categories!\n- UI improvements!",
-  "Message": "A new minor update is available, 1.3, update by Xylo!"
+  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.4.26165.0/NeonStore_1.4.26165.0_AnyCPU.appxbundle",
+  "Changelog": "- New account system hosted in GitHub + Render + MongoDB!\n- Reviews system!\n- UI improvements!",
+  "Message": "A new minor update is available, 1.4, update by Andrew, with a new accounts and reviews system!"
 }
