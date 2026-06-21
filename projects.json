@@ -312,7 +312,7 @@
       "Framework": "Windows 8.1",
 	  "TopApp": "No",
       "Description": "ZenGet is the first Windows 8 app to have the ability to generate links for the Microsoft Store apps without going to a browser",
-      "DownloadUrl": "https://raw.githubusercontent.com/bloomthebloom/bing/main/Bing%20-%20Windows%208.1_3.0.4.456_x86_x64_arm.appxbundle",
+      "DownloadUrl": "https://raw.githubusercontent.com/bloomthebloom/zenprojects/main/ZenGet_1.0.0.0_AnyCPU.appx",
       "SourceUrl": null
     }
   ],
