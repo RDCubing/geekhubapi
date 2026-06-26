@@ -1,7 +1,7 @@
 {
-  "Version": "1.5.26174.0",
+  "Version": "1.6.26177.0",
   "Name": "NeonStore",
-  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.5.26174.0/NeonStore_1.5.26174.0_AnyCPU.appxbundle",
-  "Changelog": "- New search engine in all apps and Category apps page!\n- AppBar changes!\n- UI improvements to the app details page!",
-  "Message": "A new minor update is available, 1.5, update by Xylo!"
+  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.6.26177.0/NeonStore_1.6.26177.0_AnyCPU.appxbundle",
+  "Changelog": "- New search engine in top apps page!\n- Settings flyouts revamp!\n- New personalization options!\n- New options in the app details page!",
+  "Message": "A new minor update is available, 1.6, update by Andrew, with lots of revamps!"
 }
