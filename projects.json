@@ -316,6 +316,53 @@
       "SourceUrl": null
     }
   ],
+  "NovaStore": [
+    {
+      "Title": "Aero Quotes",
+	  "Id": "aeroquotes",
+	  "Category": "Books/Reference",
+      "Subtitle": "Quotes, Aerofied",
+      "Publisher": "ChrisRLillo",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/AeroQuotes_glass_ico.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/glass.png",
+      "Version": "Release 1",
+      "Framework": "AutoHotkey v2",
+	  "TopApp": "No",
+      "Description": "This app displays a quote in an Aero Glass–style window using your system’s accent color or Mica effect, and fetches quotes from the Quotable API. It’s written in AutoHotkey v2.",
+      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/chrisrlillo-music-assets/main/programs/Aero%20Quotes.exe",
+      "SourceUrl": null
+    },
+	{
+      "Title": "AeroRun",
+	  "Id": "aerorun",
+	  "Category": "Utilities",
+      "Subtitle": "Fluent/Aero run box",
+      "Publisher": "ChrisRLillo",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/GeekHub.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/aerorun.png",
+      "Version": "Release 1",
+      "Framework": "AutoHotkey v2",
+	  "TopApp": "No",
+      "Description": "Aero glass Run box built in AHKV2",
+      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/AeroRun.exe",
+      "SourceUrl": null
+    },
+	{
+      "Title": "Switch8",
+	  "Id": "switch8",
+	  "Category": "Utilities",
+      "Subtitle": "Windows 8 left-pane built in AHKV2",
+      "Publisher": "ChrisRLillo",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/GeekHub.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/switch8.png",
+      "Version": "Version 4",
+      "Framework": "AutoHotkey v2",
+	  "TopApp": "No",
+      "Description": "Mouse over to the top left corner and move the mouse down, also only works in 100% scalling.",
+      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/switch8_enV4.7z",
+      "SourceUrl": null
+    }
+  ],
   "OtherPlatforms": [
     {
       "Title": "NeonEdge",
