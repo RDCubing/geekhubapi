@@ -256,6 +256,21 @@
       "SourceUrl": null
     },
     {
+      "Title": "QuoteTile Lite",
+	  "Id": "quotetilelts",
+	  "Category": "Books/Reference",
+      "Subtitle": "Seek inspiration from quotes",
+      "Publisher":  "GDC Productions",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/quotetilelite.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/qlite.png",
+      "Version": "1.0.26188.0",
+      "Framework": "Windows 8.0",
+	  "TopApp": "Yes",
+      "Description": "QuoteTile is a simple app that shows inspiring quotes. Refresh quotes anytime, copy quotes to clipboard with one click, and share quotes anywhere.",
+        "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/QuoteTile%20Lite_1.0.26188.0_AnyCPU.appx",
+      "SourceUrl": "https://github.com/RDCubing/QuoteTileLTS"
+    },
+	{
       "Title": "QuoteTile LTS",
 	  "Id": "quotetilelts",
 	  "Category": "Books/Reference",
