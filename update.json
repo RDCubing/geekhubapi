@@ -1,7 +1,7 @@
 {
-  "Version": "1.7.26222.0",
+  "Version": "1.7.26222.1",
   "Name": "NeonStore",
-  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.7.26222.0/NeonStore_1.7.26222.0_AnyCPU.appxbundle",
+  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.7.26222.1/NeonStore_1.7.26222.1_AnyCPU.appxbundle",
   "Changelog": "- New Main page!\n- Accounts and reviews now powered by Dank's server using our new subdomain!\n- Layout changes!",
   "Message": "A new minor update is available, 1.7, server related changes, required to update!"
 }
