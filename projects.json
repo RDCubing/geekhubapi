@@ -301,6 +301,21 @@
       "SourceUrl": null
     },
 	{
+      "Title": "ReWindowsTasks",
+	  "Id": "rewintasks",
+	  "Category": "Other",
+      "Subtitle": "A ChockingNetDude unreleased Taskflow app remaked",
+      "Publisher":  "ReOpen",
+      "ImagePath": "https://raw.githubusercontent.com/OpenGlebsur/neonstore-repo/main/Logo.scale-122.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/OpenGlebsur/neonstore-repo/main/k61m71z.png",
+      "Version": "1.0.0.0",
+      "Framework": "Windows 8.1",
+	  "TopApp": "No",
+      "Description": "ReWindowsTasks is new Taskflow with remaded UI",
+        "DownloadUrl": "https://raw.githubusercontent.com/OpenGlebsur/neonstore-repo/main/m3nndmj.appx",
+      "SourceUrl": null
+    },
+	{
       "Title": "Switch8",
 	  "Id": "switch8",
 	  "Category": "Utilities",
