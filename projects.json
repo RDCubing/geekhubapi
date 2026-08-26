@@ -165,6 +165,21 @@
       "DownloadUrl": "https://github.com/RDCubing/GDC-Highlights-4/releases/download/1.2.1.1/GDC.Highlights_1.2.1.1_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/GDC-Highlights-4"
     },
+	    {
+      "Title": "GDCR Highlights",
+	  "Id": "gdchr",
+	  "Category": "News",
+      "Subtitle": "Latest news from GDC",
+      "Publisher":  "GDCR Productions",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/GDCRMedium.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/gdcr.png",
+      "Version": "1.0.26238.0",
+      "Framework": "Windows 8.1",
+	  "TopApp": "Yes",
+      "Description": "Stay updated with the latest GDC news, releases, and community highlights in one place.",
+      "DownloadUrl": "https://github.com/RDCubing/GDCR-Highlights/releases/download/1.0.26238.0/GDCR.Highlights_1.0.26238.0_AnyCPU.appx",
+      "SourceUrl": "https://github.com/RDCubing/GDCR-Highlights/"
+    },
 	{
       "Title": "GeekHub",
 	  "Id": "geekhub",
