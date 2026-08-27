@@ -415,7 +415,7 @@
       "Description": "Stay updated with the latest GDC news, releases, and community highlights in one place.",
       "DownloadUrl": "https://github.com/RDCubing/GDCHWP8/releases/download/1.0.26126.0/GDCHWP8_1.0.26126.0_AnyCPU.appx",
       "SourceUrl": "https://github.com/RDCubing/GDCHWP8"
-    },
+    }
   ],
   "PrismStore": [
     {
@@ -448,7 +448,6 @@
       "DownloadUrl": "https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/main/Ie12_12.0.0.0_AnyCPU.appx",
       "SourceUrl": "https://github.com/draydenthemiiyt-maker/10-Store/tree/main/ie12"
     },
-
     {
       "Title": "ConverterCalculatorGUI",
 	  "Id": "calcgui",
