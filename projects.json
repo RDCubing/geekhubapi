@@ -225,6 +225,21 @@
       "DownloadUrl": "https://github.com/RDCubing/Neon-Notes/releases/download/1.0.26142.0/Neon.Notes_1.0.26142.0_AnyCPU.appxbundle",
       "SourceUrl": "https://github.com/RDCubing/Neon-Notes"
     },
+		{
+      "Title": "NeonStore Recovery",
+	  "Id": "neonstore",
+	  "Category": "Other",
+      "Subtitle": "Backup of 1.1",
+      "Publisher": "GDCR Productions",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/neonstore.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/neonstorea.png",
+      "Version": "1.1,26153.1",
+      "Framework": "Windows 8.1",
+	  "TopApp": "No",
+      "Description": "Backup of 1.1",
+      "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.1.26153.1/NeonStore_1.1.26153.1_AnyCPU.appxbundle",
+      "SourceUrl": "https://github.com/RDCubing/NeonStore"
+    },
     {
       "Title": "OctoStore",
 	  "Id": "octostore",
@@ -389,6 +404,51 @@
       "Description": "An important app dependency for most Windows 8.0 apps to work, needs to be installed before installing any apps depending on this, otherwise they wont install.",
       "DownloadUrl": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/Microsoft.VCLibs.110.00_11.0.51106.1_arm__8wekyb3d8bbwe.appx",
       "SourceUrl": null
+    },
+			{
+      "Title": "VCLibs 110 x86",
+	  "Id": "vclibs11086",
+	  "Category": "Dependencies",
+      "Subtitle": "App dependency.",
+      "Publisher": "Microsoft Corporation",
+      "ImagePath": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/vclibsiconforneonstore.png",
+      "DetailImagePath": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/vclibsiconforneonstore.png",
+      "Version": "110.00",
+      "Framework": "Windows 8.1",
+	  "TopApp": "No",
+      "Description": "An important app dependency for most Windows 8.0 apps to work, needs to be installed before installing any apps depending on this, otherwise they wont install.",
+      "DownloadUrl": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/Microsoft.VCLibs.110.00_11.0.51106.1_x86__8wekyb3d8bbwe.appx",
+      "SourceUrl": null
+    },
+	{
+      "Title": "WinJS 2.0",
+	  "Id": "winjs20",
+	  "Category": "Dependencies",
+      "Subtitle": "WinJS 2.0",
+      "Publisher": "Microsoft Corporation",
+      "ImagePath": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/winjslogoforneonstore.png",
+      "DetailImagePath": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/winjsimg.jpg/",
+      "Version": "2.0",
+      "Framework": "Windows 8.1",
+	  "TopApp": "No",
+      "Description": "Windows JavaScript (shortly WinJS) is a framework which most Windows 8.1 apps rely on. Must be installed first before installing apps depending on it.",
+      "DownloadUrl": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/Microsoft.WinJS.2.0_1.0.9600.17018_neutral__8wekyb3d8bbwe.appx",
+      "SourceUrl": null
+    },
+			{
+      "Title": "WinJS 1.0",
+	  "Id": "winjs10",
+	  "Category": "Dependencies",
+      "Subtitle": "App dependency.",
+      "Publisher": "Microsoft Corporation",
+      "ImagePath": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/vclibsiconforneonstore.png",
+      "DetailImagePath": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/vclibsiconforneonstore.png",
+      "Version": "1.0",
+      "Framework": "Windows 8.0",
+	  "TopApp": "No",
+      "Description": "An important app dependency for most Windows 8.0 apps to work, needs to be installed before installing any apps depending on this, otherwise they wont install.",
+      "DownloadUrl": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/Microsoft.WinJS.1.0_1.0.9200.20789_neutral__8wekyb3d8bbwe.appx",
+      "SourceUrl": null
     }
   ],
   "OtherPlatforms": [
@@ -437,7 +497,7 @@
       "Title": "NeonEdge",
 	  "Id": "neonedge",
 	  "Category": "Internet",
-	  "TopApp": "No",
+	  "TopApp": "Yes",
       "Subtitle": "Edge, remade",
       "Publisher": "GDC Projects by Andrew",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/neonedge.png",
@@ -462,6 +522,21 @@
       "Description": "If IE Never died and Microsoft Made it's 12th version for Windows 10 in 2015.",
       "DownloadUrl": "https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/main/Ie12_12.0.0.0_AnyCPU.appx",
       "SourceUrl": "https://github.com/draydenthemiiyt-maker/10-Store/tree/main/ie12"
+    },
+		{
+      "Title": "Project Meridian",
+	  "Id": "projectmeridian",
+	  "TopApp": "Yes",
+	  "Category": "Internet",
+      "Subtitle": "The new NeonEdge",
+      "Publisher":  "GDCR Productions",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/projectmeridian.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/projectmeridiana.png",
+      "Version": "1.0.26217.0",
+      "Framework": "Windows 10",
+      "Description": "NeonEdge, formerly known as Project Meridian, is basically a new take on Microsoft Edge with a more classic Windows feel.",
+      "DownloadUrl": "https://github.com/RDCubing/Project-Meridian-UWP/releases/download/1.0.26217.0/Project.Meridian_1.0.26217.0_x86_x64_arm.appxbundle",
+      "SourceUrl": "https://github.com/RDCubing/Project-Meridian-UWP/
     },
     {
       "Title": "ConverterCalculatorGUI",

@@ -1,7 +1,7 @@
 {
-  "Version": "1.8.26239.0",
+  "Version": "1.0.26240.0",
   "Name": "PrismStore",
-  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.8.26239.0/NeonStore_1.8.26239.0_AnyCPU.appxbundle",
-  "Changelog": "Test!",
-  "Message": "Test!"
+  "DownloadUrl": "https://github.com/RDCubing/PrismStore/releases/download/1.0.26240.0/PrismStore_1.0.26240.0_x86_x64_arm.appxbundle",
+  "Changelog": "Initial release.",
+  "Message": "Initial release."
 }
