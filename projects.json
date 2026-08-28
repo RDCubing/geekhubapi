@@ -435,7 +435,7 @@
       "DownloadUrl": "https://git.snoooopy.online/8appstorage/win8dependencies/raw/branch/main/Microsoft.WinJS.2.0_1.0.9600.17018_neutral__8wekyb3d8bbwe.appx",
       "SourceUrl": null
     },
-			{
+	{
       "Title": "WinJS 1.0",
 	  "Id": "winjs10",
 	  "Category": "Dependencies",
@@ -536,7 +536,7 @@
       "Framework": "Windows 10",
       "Description": "NeonEdge, formerly known as Project Meridian, is basically a new take on Microsoft Edge with a more classic Windows feel.",
       "DownloadUrl": "https://github.com/RDCubing/Project-Meridian-UWP/releases/download/1.0.26217.0/Project.Meridian_1.0.26217.0_x86_x64_arm.appxbundle",
-      "SourceUrl": "https://github.com/RDCubing/Project-Meridian-UWP/
+      "SourceUrl": "https://github.com/RDCubing/Project-Meridian-UWP/"
     },
     {
       "Title": "ConverterCalculatorGUI",
