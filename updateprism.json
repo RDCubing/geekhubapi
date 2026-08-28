@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.26240.1",
+  "Version": "1.0.26240.2",
   "Name": "PrismStore",
-  "DownloadUrl": "https://github.com/RDCubing/PrismStore/releases/download/1.0.26240.1/PrismStore_1.0.26240.1_x86_x64_arm.appxbundle",
-  "Changelog": "- Accent color support\n- Notifications support",
+  "DownloadUrl": "https://github.com/RDCubing/PrismStore/releases/download/1.0.26240.2/PrismStore_1.0.26240.2_x86_x64_arm.appxbundle",
+  "Changelog": "- Accent color support\n- Notifications support\n\nVersion 1.0.26240.2:\n- Full mobile support",
   "Message": "Initial release."
 }
