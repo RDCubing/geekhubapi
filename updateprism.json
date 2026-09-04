@@ -2,6 +2,6 @@
   "Version": "1.1.26247.0",
   "Name": "PrismStore",
   "DownloadUrl": "https://github.com/RDCubing/PrismStore/releases/download/1.1.26247.0/PrismStore_1.1.26247.0_x86.appxbundle",
-  "Changelog": "- New animations\n- Fixes to design (e.g. clipping)\n- Overall discontinued W10M, ARM, and x86 support",
+  "Changelog": "- New animations\n- Fixes to design (e.g. clipping)\n- Overall discontinued W10M, ARM, and x64 support",
   "Message": "Fixed issues from initial release."
 }
