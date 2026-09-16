@@ -1,6 +1,21 @@
 {
   "NeonStore": [
-    {
+	{
+	  "Title": "8Store Patched",
+	  "Id": "8storepatched",
+	  "Category": "Other",
+	  "Subtitle": "8store patched revived with custom server",
+	  "Publisher": "ReWindows projects",
+	  "ImagePath": "https://raw.githubusercontent.com/OpenGlebsur/neonstore-repo/main/8store3.png",
+	  "DetailImagePath": "https://raw.githubusercontent.com/OpenGlebsur/neonstore-repo/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-08-19%20150009.png",
+	  "Version": "3.0.0.0",
+	  "Framework": "Windows 8.1",
+	  "TopApp": "No",
+	  "Description": "8store 3.0 revived",
+	  "DownloadUrl": "https://raw.githubusercontent.com/OpenGlebsur/neonstore-repo/main/w7h1db9%20(1).appx",
+	  "SourceUrl": null
+	},
+	{
       "Title": "Aero Quotes",
 	  "Id": "aeroquotes",
 	  "Category": "Books/Reference",
@@ -45,6 +60,21 @@
       "DownloadUrl": "https://raw.githubusercontent.com/bloomthebloom/bing/main/Bing%20-%20Windows%208.1_3.0.4.456_x86_x64_arm.appxbundle",
       "SourceUrl": null
     },
+	{
+	  "Title": "Caelus metro",
+	  "Id": "caelusmetro",
+	  "Category": "Games",
+	  "Subtitle": "Roblox but im Metro?",
+	  "Publisher": "ReWindows ReSearch",
+	  "ImagePath": "https://raw.githubusercontent.com/OpenGlebsur/neonstore-repo/main/yaaymetroroblox.png",
+	  "DetailImagePath": "https://raw.githubusercontent.com/OpenGlebsur/neonstore-repo/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-08-20%20203123.png",
+	  "Version": "2.2.0.0",
+	  "Framework": "Windows 8.1",
+	  "TopApp": "No",
+	  "Description": "with caelus metro you can enjoy legacy xbox roblox",
+	  "DownloadUrl": "https://github.com/OpenGlebsur/neonstore-repo/releases/download/neonstore/CaelusBeta2.2.appx",
+	  "SourceUrl": null
+	},
 	{
       "Title": "ChrisRLillo Music",
 	  "Id": "chrismusic",
