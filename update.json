@@ -1,7 +1,7 @@
 {
-  "Version": "1.9.26257.0",
+  "Version": "1.9.26259.0",
   "Name": "NeonStore",
-  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.9.26257.0/NeonStore_1.9.26257.0_AnyCPU.appxbundle",
-  "Changelog": "- Updated main page!\n- Discord sign-in now available!\n- Layout changes!",
-  "Message": "A new minor update is available, 1.8, includes new uploader!"
+  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/1.9.26259.0/NeonStore_1.9.26259.0_AnyCPU.appxbundle",
+  "Changelog": "- New non-static spotlight!\n- Mainpage and layout changes!\n- New large live tile!",
+  "Message": "A new build is available, 26259, by Xylo!"
 }
