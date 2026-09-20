@@ -1,7 +1,7 @@
 {
-  "Version": "2.0.26263.0",
+  "Version": "2.0.26264.0",
   "Name": "NeonStore",
-  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/2.0.26263.0/NeonStore_2.0.26263.0_AnyCPU.appxbundle",
-  "Changelog": "- Sideloading now available!\n- New layout updates in some pages!\n- Feedback now available!\n- New publishers and publisher's app page!",
+  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/2.0.26264.0/NeonStore_2.0.26264.0_AnyCPU.appxbundle",
+  "Changelog": "Version 2.0.26263.0\n\n- Sideloading now available!\n- New layout updates in some pages!\n- Feedback now available!\n- New publishers and publisher's app page!\n\nVersion 2.0.26264.0\n",
   "Message": "A new major update is available!, version 2.0, with tons of new features that change NeonStore forever!"
 }
