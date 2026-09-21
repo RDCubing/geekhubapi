@@ -564,7 +564,7 @@
 	  "ImagePath": "https://raw.githubusercontent.com/ReneLergner/WPinternals/master/WPinternals/Assets/Logo.png",
 	  "DetailImagePath": "https://raw.githubusercontent.com/ReneLergner/WPinternals/master/WPinternals/Assets/Logo.png",
 	  "Version": "2.9.2",
-	  "Framework": "Windows 8.1 and higher",
+	  "Framework": "Windows 8.1",
 	  "TopApp": "No",
 	  "Description": "An open-source tool made to interop unlock Windows Phones running Windows Phone 8 or Windows 10 Mobile.",
 	  "DownloadUrl": "https://github.com/ReneLergner/WPinternals/releases/download/2.9.2/win-x86.zip",
