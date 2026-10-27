@@ -1,7 +1,7 @@
 {
-  "Version": "2.1.26300.0",
+  "Version": "2.1.26300.1",
   "Name": "NeonStore",
-  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/2.1.26300.0/NeonStore_2.1.26300.0_AnyCPU.appx",
-  "Changelog": "Version 2.1.26300.0\n- Birthday special!\n- New mainpage, with spotlight changes!\n- New all apps page, other pages are merged into filters!\n- New downloads history!",
+  "DownloadUrl": "https://github.com/RDCubing/NeonStore/releases/download/2.1.26300.1/NeonStore_2.1.26300.1_AnyCPU.appxbundle",
+  "Changelog": "Version 2.1.26300.0\n- Birthday special!\n- New mainpage, with spotlight changes!\n- New all apps page, other pages are merged into filters!\n- New downloads history!\n\nVersion 2.1.26300.1\n- Fixed all apps page not opening on Windows 8.1",
   "Message": "A new major update is available!, version 2.1, with tons of new features that change NeonStore forever!"
 }
