@@ -2,6 +2,6 @@
   "Version": "1.2.26325.0",
   "Name": "PrismStore",
   "DownloadUrl": "https://github.com/RDCubing/PrismStore/releases/download/1.2.26325.0/PrismStore_1.2.26325.0_x86.appxbundle",
-  "Changelog": "- New acrylic and options (for 1709 and up)\n- Removed animations\n- Added app updates\n- Live tiles implemented\n- Discord login support",
+  "Changelog": "- New acrylic and options (for 1709 and up)\n- Removed animations\n- Added direct sideloading\n- Added app updates\n- Live tiles implemented\n- Discord login support",
   "Message": "Fixed issues from initial release."
 }
