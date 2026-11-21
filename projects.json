@@ -201,11 +201,11 @@
       "Publisher": "Octo Limited",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/octostore.png",
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/octoshot.png",
-      "Version": "1.4.0.0",
+      "Version": "1.4.1.0",
       "Framework": "Windows 8.1",
       "TopApp": "Yes",
       "Description": "OctoStore is an 8Store fork with new features that make it even better, continuing 8Store's original goal with the same passion.",
-      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/OctoLimited.OctoStore_1.4.0.0_neutral__9nv48q8g3jb4r.appx",
+      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/Win81StoreRevival_1.4.1.0_AnyCPU_Debug.appx",
       "SourceUrl": null
     },
     {
@@ -583,17 +583,17 @@
     {
       "Title": "Project Meridian",
       "Id": "projectmeridian",
-      "packageId": "2e029186-dab8-4b3b-90f4-57974e80d7fb",
+      "packageId": "c7060dd4-53e9-4fc3-9207-bfb1a3e2aaac",
       "Category": "Internet",
       "Subtitle": "The new NeonEdge",
       "Publisher": "GDCR Productions",
       "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/projectmeridian.png",
       "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/projectmeridiana.png",
-      "Version": "1.0.26217.0",
+      "Version": "2.0.26313.0",
       "Framework": "Windows 10",
       "TopApp": "Yes",
       "Description": "Project Meridian (formerly NeonEdge) is a fresh take on Microsoft Edge built with a classic Windows 10 Build 10240 feel.",
-      "DownloadUrl": "https://github.com/RDCubing/Project-Meridian-UWP/releases/download/1.0.26217.0/Project.Meridian_1.0.26217.0_x86_x64_arm.appxbundle",
+      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/ProjectMeridianNew_2.0.26313.0_x86.appxbundle",
       "SourceUrl": "https://github.com/RDCubing/Project-Meridian-UWP/"
     },
     {
