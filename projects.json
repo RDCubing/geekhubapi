@@ -112,6 +112,22 @@
       "DownloadUrl": "https://raw.githubusercontent.com/OpenGlebsur/neonstore-repo/main/ChromeUWP_1.0.0.0_AnyCPU__2__1785070304.appx",
       "SourceUrl": null
     },
+	{
+      "Title": "ConAmp",
+      "Id": "conamp",
+      "packageId": null,
+      "Category": "Entertainment",
+      "Subtitle": "Retro Win32 Console Audio Deck & Real-Time Visualizer",
+      "Publisher": "GDCR Productions",
+      "ImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/conamp.png",
+      "DetailImagePath": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/Images/conampss.png",
+      "Version": "26319",
+      "Framework": "Visual C++",
+      "TopApp": "No",
+      "Description": "ConAmp brings back the MS-DOS player vibes right inside your console window.",
+      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/ConAmp_26319_x86_Setup",
+      "SourceUrl": null
+    }
     {
       "Title": "DrayMusic",
       "Id": "draymusic",
@@ -567,7 +583,7 @@
     {
       "Title": "Internet Explorer 12",
       "Id": "ie12",
-      "packageId": null,
+      "packageId": "Microsoft.IE.12",
       "Category": "Internet",
       "Subtitle": "The 12th version of Internet Explorer",
       "Publisher": "DraydenYT",
@@ -577,7 +593,7 @@
       "Framework": "Windows 10",
       "TopApp": "No",
       "Description": "A concept imagining what Internet Explorer 12 would look like if Microsoft had released it for Windows 10 in 2015.",
-      "DownloadUrl": "https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/main/Ie12_12.0.0.0_AnyCPU.appx",
+      "DownloadUrl": "https://raw.githubusercontent.com/RDCubing/geekhubapi/main/appx/Ie12_12.0.0.0_AnyCPU.appx",
       "SourceUrl": "https://github.com/draydenthemiiyt-maker/10-Store/tree/main/ie12"
     },
     {
@@ -611,6 +627,6 @@
       "Description": "A lightweight Windows application combining a scientific calculator and a currency converter. Built in C# WinForms for everyday calculations and quick currency conversions.",
       "DownloadUrl": "https://github.com/RDCubing/ConverterCalculatorGUI/releases/download/1.0/ConverterCalculatorGUI_Installer.exe",
       "SourceUrl": "https://github.com/RDCubing/ConverterCalculatorGUI"
-    }
+    },
   ]
 }
